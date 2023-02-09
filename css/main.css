@@ -59,7 +59,7 @@ body{
     text-align: center;
 }
 .sidbar-social ul{
-    position: absolute;
+    position: fixed;
     top: 5px;
     left: 36px;
     margin: auto;
@@ -92,7 +92,7 @@ text-decoration: none;
 
 
 .dark-mood{
-    position: absolute;
+    position: fixed;
     top: 0%;
     left: 0%;
     z-index: 999999;
